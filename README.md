@@ -1,4 +1,4 @@
-# Wagwan, I'm PAB! 🤝
+# Hello, I'm PAB! 🤝
 > Pronounced like "pub" 🍺
 
 ---
